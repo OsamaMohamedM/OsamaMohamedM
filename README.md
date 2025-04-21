@@ -3,7 +3,7 @@
 ## About Me
 - third year student at Cairo University, Faculty of Computer Science
 - Passionate about Flutter and backend development with Django.
-- [View My CV]([https://drive.google.com/file/d/1tBgW6BJk-nNBT5AzTIM6iWgOkSe6rqfr/view?usp=sharing](https://drive.google.com/file/d/1_3s9TJVZm1wgcgW4R3UnqDcHh_LU3T9U/view?usp=drive_link))
+- [View My CV]([https://drive.google.com/file/d/1tBgW6BJk-nNBT5AzTIM6iWgOkSe6rqfr/view?usp=sharing])
 ## Skills
 - 💡 Problem-Solving: Proficient in identifying and solving complex problems efficiently.
 - 🧠 Algorithms: Experienced in implementing advanced algorithms to optimize software solutions.
