@@ -28,7 +28,7 @@
   <a href="https://github.com/OsamaMohamedM" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="OsamaMohamedM" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/Osama Mohamed" target="blank">
+  <a href="[https://linkedin.com/in/Osama Mohamed](https://www.linkedin.com/in/osama-mohamed-266541261/)" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Osama Mohamed" height="30" width="40" />
   </a>
   <a href="https://codeforces.com/profile/_osama_mohamed_" target="blank">
