@@ -1,7 +1,7 @@
 # Hi 👋, I'm Osama Mohamed
 
 ### Computer Science & AI Student at Cairo University | Back-End & Flutter Developer  
-### Back-End Developer  
+ 
 
 ---
 
