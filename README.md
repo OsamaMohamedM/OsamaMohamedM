@@ -2,8 +2,7 @@
 
 ### Back-End developer
 
-- 🌱 I'm currently learning **Back-End with ASP.net
-**
+- 🌱 I'm currently learning **Back-End with ASP.net**
 
 - 📫 How to reach me **[myemail](mailto:osamamhd65@gmail.com)**
 
