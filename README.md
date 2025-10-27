@@ -5,14 +5,6 @@
 
 ---
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=OsamaMohamedM" alt="OsamaMohamedM" />
-  </a> 
-</p>
-
----
-
 - 🌱 I'm currently learning **Back-End with ASP.NET**
 
 - 💬 Ask me about **C#, .NET, ASP.NET Core, Dart, Flutter, State Management, SQL, C++, OOP, Data Structures, Algorithms, Agile, SOLID principles**
