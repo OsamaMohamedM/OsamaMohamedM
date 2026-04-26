@@ -14,42 +14,15 @@
 - 📄 Know about my experiences [**Here**](https://drive.google.com/drive/folders/1oHJ3U0ee8_mphOqJCHRqmm8KfjtYh30m?usp=sharing)
 
 ---
-
 ### 💬 Connect with me:
-<p align="left">
-  <a href="https://github.com/OsamaMohamedM" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="OsamaMohamedM" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/osama-mohamed-266541261/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Osama Mohamed" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/_osama_mohamed_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_osama_mohamed_" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/osamamohamed_24" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="osamamohamed_24" height="30" width="40" />
-  </a>
-</p>
+<p align="left"><a href="https://github.com/OsamaMohamedM" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="OsamaMohamedM" height="30" width="40" /></a><a href="https://www.linkedin.com/in/osama-mohamed-266541261/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osama-mohamed" height="30" width="40" /></a><a href="https://codeforces.com/profile/_osama_mohamed_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_osama_mohamed_" height="30" width="40" /></a><a href="https://leetcode.com/osamamohamed_24" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="osamamohamed_24" height="30" width="40" /></a></p>
 
 ---
 
 ### 🛠️ Languages and Tools:
-<p align="left"> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,dart,dotnet,flutter,java,mysql,sqlite,git,postman,figma,py" />
 </p>
-
 ---
 
 ### 📊 GitHub Stats:
