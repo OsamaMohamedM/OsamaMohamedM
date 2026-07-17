@@ -12,10 +12,12 @@
 <a href="https://www.linkedin.com/in/osama-mohamed-266541261/">
   <img src="https://img.shields.io/badge/LinkedIn-Osama%20Mohamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+<a href="https://osama-mohamed-protfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-1F4E79?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
 <a href="https://drive.google.com/drive/folders/1oHJ3U0ee8_mphOqJCHRqmm8KfjtYh30m?usp=sharing">
   <img src="https://img.shields.io/badge/Resume-View%20CV-111827?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
 </a>
-
 <br/>
 </div>
 
