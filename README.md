@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Osama%20Mohamed&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20.NET%20Developer%20%7C%20Flutter%20Developer&descAlignY=56&descSize=22" alt="Osama Mohamed — Backend .NET Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Osama%20Mohamed&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20.NET%20Developer&descAlignY=56&descSize=22" alt="Osama Mohamed — Backend .NET Developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Backend+.NET+Developer;Flutter+Developer+%7C+Dart+%7C+State+Management;ASP.NET+Core+%7C+EF+Core+%7C+SQL;Building+Reliable%2C+Secure+and+Scalable+Systems" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Backend+.NET+Developer;ASP.NET+Core+%7C+EF+Core+%7C+SQL;Building+Reliable%2C+Secure+and+Scalable+Systems" alt="Typing introduction" />
 
 <br/>
 
@@ -16,10 +16,7 @@
   <img src="https://img.shields.io/badge/Resume-View%20CV-111827?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=OsamaMohamedM&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile views" />
-
+<br/>
 </div>
 
 ---
