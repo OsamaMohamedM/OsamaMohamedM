@@ -96,52 +96,6 @@ A booking and payment backend built around complex guest, host, room, booking, p
 </tr>
 
 <tr>
-<td width="50%" valign="top">
-
-### 🛒 [Talabat API](https://github.com/OsamaMohamedM/TalabatAPI)  
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Hangfire](https://img.shields.io/badge/Background_Jobs-Hangfire-2563EB?style=flat-square)
-
-A full e-commerce backend covering product discovery, baskets, checkout, inventory reservations, payments, reviews, wishlists, authentication, and background processing.
-
-**Engineering highlights:**
-
-- Redis-backed baskets and read-aside caching
-- Inventory reservation and concurrency handling
-- Order lifecycle and state-transition rules
-- Payment gateway and webhook integration
-- JWT authentication with refresh tokens
-- Product filtering, pagination, reviews, and wishlists
-- Hangfire reconciliation, cleanup, and cancellation jobs
-- Result, Specification, Repository, and Unit of Work patterns
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/OsamaMohamedM/TalabatAPI)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧱 [.NET Clean Architecture + CQRS](https://github.com/OsamaMohamedM/Dotnet-Clean-Architecture-CQRS)  
-![Clean Architecture](https://img.shields.io/badge/Architecture-Clean-0EA5E9?style=flat-square)
-![CQRS](https://img.shields.io/badge/Pattern-CQRS-10B981?style=flat-square)
-![MediatR](https://img.shields.io/badge/Mediator-MediatR-E11D48?style=flat-square)
-
-A reference implementation demonstrating how to structure a maintainable .NET API around domain rules and use-case-oriented application flows.
-
-**Engineering highlights:**
-
-- Domain, Application, Infrastructure, and API separation
-- CQRS with MediatR command/query handlers
-- FluentValidation pipeline behavior
-- EF Core persistence
-- Result-based error handling
-- Domain invariants and thin controllers
-- Swagger/OpenAPI documentation
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/OsamaMohamedM/Dotnet-Clean-Architecture-CQRS)
-
-</td>
-</tr>
 </table>
 
 ---
